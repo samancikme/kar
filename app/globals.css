@@ -1,0 +1,228 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 210 55% 25%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 200 50% 35%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 200 55% 48%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+
+    --font-sans: var(--font-inter);
+    --font-heading: var(--font-poppins);
+  }
+
+  .dark {
+    /* Softer, more balanced dark mode color palette */
+    --background: 215 28% 17%; /* Softer dark blue-gray */
+    --foreground: 210 20% 98%;
+
+    --card: 215 25% 22%; /* Slightly lighter than background */
+    --card-foreground: 210 20% 98%;
+
+    --popover: 215 25% 22%;
+    --popover-foreground: 210 20% 98%;
+
+    --primary: 210 70% 65%; /* Brighter blue */
+    --primary-foreground: 215 28% 17%;
+
+    --secondary: 200 65% 55%; /* Vibrant secondary blue */
+    --secondary-foreground: 210 20% 98%;
+
+    --muted: 215 20% 25%; /* Slightly lighter than background */
+    --muted-foreground: 215 16% 80%;
+
+    --accent: 200 70% 60%; /* Vibrant accent blue */
+    --accent-foreground: 210 20% 98%;
+
+    --destructive: 0 62.8% 40%;
+    --destructive-foreground: 210 20% 98%;
+
+    --border: 215 20% 30%; /* Subtle border color */
+    --input: 215 20% 30%;
+    --ring: 212.7 26% 70%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Softer dark mode gradient colors */
+.dark .bg-gradient-to-br.from-\[\#1E3A5F\].to-\[\#34495E\] {
+  --tw-gradient-from: #2a4f7e; /* Brighter blue */
+  --tw-gradient-to: #3d5a7d; /* Softer end color */
+  background-image: linear-gradient(to bottom right, var(--tw-gradient-from), var(--tw-gradient-to));
+}
+
+.dark .bg-gradient-to-r.from-\[\#1E3A5F\].to-\[\#2D6187\] {
+  --tw-gradient-from: #2a4f7e; /* Brighter blue */
+  --tw-gradient-to: #3d81b7; /* Vibrant blue */
+  background-image: linear-gradient(to right, var(--tw-gradient-from), var(--tw-gradient-to));
+}
+
+.dark .bg-gradient-to-r.from-\[\#2D6187\].to-\[\#3D8EB9\] {
+  --tw-gradient-from: #3d81b7; /* Vibrant blue */
+  --tw-gradient-to: #5daedf; /* Light blue */
+  background-image: linear-gradient(to right, var(--tw-gradient-from), var(--tw-gradient-to));
+}
+
+/* Improved dark mode styles for common elements */
+.dark .bg-white {
+  background-color: #1e293b; /* Softer dark blue-gray (slate-800) */
+}
+
+.dark .text-gray-600 {
+  color: #d1d5db; /* gray-300 */
+}
+
+.dark .text-gray-700 {
+  color: #e5e7eb; /* gray-200 */
+}
+
+.dark .bg-gray-50 {
+  background-color: #1a2234; /* Slightly darker than background */
+}
+
+.dark .bg-gray-100 {
+  background-color: #1e293b; /* slate-800 */
+}
+
+.dark .bg-gray-900 {
+  background-color: #0f172a; /* slate-900 */
+}
+
+.dark .border-gray-200,
+.dark .border-gray-300 {
+  border-color: #334155; /* slate-700 */
+}
+
+.dark .shadow-md,
+.dark .shadow-lg {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.05);
+}
+
+/* Improved text colors in dark mode */
+.dark .text-\[\#1E3A5F\] {
+  color: #93c5fd; /* blue-300 */
+}
+
+.dark .text-black {
+  color: #f8fafc; /* slate-50 */
+}
+
+/* Footer text color */
+.dark footer .text-gray-400 {
+  color: #94a3b8; /* slate-400 */
+}
+
+/* Improved card and button styles in dark mode */
+.dark .rounded-xl.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.05);
+}
+
+.dark .hover\:shadow-lg:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Footer improvements for dark mode */
+.dark footer.bg-gray-900 {
+  background-color: #0f172a; /* slate-900 */
+}
+
+/* Improved form elements in dark mode */
+.dark input,
+.dark select,
+.dark textarea {
+  background-color: #1e293b; /* slate-800 */
+  border-color: #334155; /* slate-700 */
+}
+
+/* Improved dropdown menu in dark mode */
+.dark .bg-background\/95 {
+  background-color: rgba(30, 41, 59, 0.95); /* slate-800 with opacity */
+}
+
+/* Improved hover states in dark mode */
+.dark .hover\:bg-gray-100:hover {
+  background-color: #334155; /* slate-700 */
+}
+
+.dark .hover\:text-white:hover {
+  color: #ffffff;
+}
+
+/* Additional improvements for dark mode */
+.dark .bg-card {
+  background-color: #1e293b; /* slate-800 */
+}
+
+.dark .text-muted-foreground {
+  color: #94a3b8; /* slate-400 */
+}
+
+/* Make blue elements more vibrant in dark mode */
+.dark .text-blue-500,
+.dark .text-blue-600,
+.dark .text-blue-700 {
+  color: #60a5fa; /* blue-400 */
+}
+
+.dark .bg-blue-500,
+.dark .bg-blue-600,
+.dark .bg-blue-700 {
+  background-color: #3b82f6; /* blue-500 */
+}
+
+/* Ensure buttons have good contrast */
+.dark .bg-primary {
+  background-color: #60a5fa; /* blue-400 */
+}
+
+.dark .text-primary {
+  color: #60a5fa; /* blue-400 */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

@@ -1,0 +1,251 @@
+{
+  "common": {
+    "home": "Bas bet",
+    "courses": "Kurslar",
+    "benefits": "Artıqmashılıqlar",
+    "contact": "Baylanıs",
+    "register": "Dizimnen ótiw",
+    "send": "Jiberiw",
+    "loading": "Jiberilmekte...",
+    "details": "Tolıǵıraq",
+    "copyright": "Barlıq huqıqlar qorǵalǵan",
+    "news": "Jańalıqlar",
+    "courseNotFound": "Kurs tabılmadı",
+    "courseNotFoundMessage": "Siz izlep atırǵan kurs joq yamasa óshirilgen.",
+    "backToCourses": "Kurslarǵa qaytıw",
+    "day": "kún",
+    "month": "ay",
+    "year": "jıl",
+    "certificate": "Sertifikat",
+    "duration": "Dawamıylıǵı",
+    "price": "Bahası",
+    "lessons": "sabaq",
+    "phone": "Telefon",
+    "address": "Mánzil",
+    "email": "Email",
+    "optional": "qosımsha",
+    "required": "májbúriy",
+    "success": "Tabıslı",
+    "error": "Qátelik"
+  },
+  "home": {
+    "hero": {
+      "title": "Karpage – Grafikalıq dizayn hám injenerlik baǵdarlamaların úyreniń",
+      "description": "Dizayn hám injenerlik tarawında kásipkoy bolıń! Photoshop, CorelDRAW, AutoCAD hám 3ds Max kurslarımız benen kreativ hám texnikalıq kónlikpeleriń rawajlandırıń.",
+      "registerButton": "Dizimnen ótiw",
+      "viewCoursesButton": "Kurslardı kóriw"
+    },
+    "benefits": {
+      "title": "Biz usınamız",
+      "description": "Kurslarımız arqalı kásipkoy kónlikpelerdi iyelep, óz tarawıńızdaǵı qániyge aylanıń.",
+      "items": [
+        {
+          "title": "Ámeliy kurslar",
+          "description": "Haqıyqıy joybarlar ústinde islew"
+        },
+        {
+          "title": "Tájiriybe jıynaw",
+          "description": "Dizayn hám injenerlik tarawında kerekli bilimler"
+        },
+        {
+          "title": "Sertifikat",
+          "description": "Oqıwdı tamamlaǵanıńızda sertifikat beriledi"
+        },
+        {
+          "title": "Onlayn hám oflayn oqıw",
+          "description": "Qálegenińizden úyreniw imkaniyatı"
+        }
+      ]
+    },
+    "courses": {
+      "title": "Bizdiń kurslar",
+      "description": "Házirgi zaman baǵdarlamaların kásipkoy dárejede úyreniń hám óz tarawıńızdaǵı qániyge aylanıń.",
+      "duration": "Dawamıylıǵı",
+      "price": "Bahası",
+      "viewAllButton": "Barlıq kurslardı kóriw"
+    },
+    "testimonials": {
+      "title": "Oqıwshılarımızdıń pikirler",
+      "description": "Kurslarımızdı tamamlaǵan oqıwshılardıń pikirleri menen tanısıń.",
+      "items": [
+        {
+          "name": "Aziza Karimova",
+          "role": "Grafikalıq dizayner",
+          "text": "Karpage'degi Photoshop kursı maǵan kásipkoy dárejede islewdi úyretti. Endi ǵárezsiz joybarlar ústinde isley alaman."
+        },
+        {
+          "name": "Bobur Aliyev",
+          "role": "Injener-joybalawshı",
+          "text": "AutoCAD kursınan soń jumısqa ornalasıwım ańsat boldı. Oqıtıwshılar júdá kásipkoy hám bilimli."
+        },
+        {
+          "name": "Dilnoza Rahimova",
+          "role": "3D dizayner",
+          "text": "3ds Max kursı arqalı 3D modellestiriw tarawında óz biznesimdi basladım. Karpage'ge úlken rahmet!"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Búgin dizimnen ótiń hám óz kásibińiz boyınsha jańa basqıshqa shıǵıń!",
+      "description": "Kurslarımız sheklengen orınlarǵa iye. Óz ornıńızdı band qılıń!"
+    },
+    "contact": {
+      "title": "Biz benen baylanısıń",
+      "description": "Sorawlarıńız bar ma? Biz benen baylanısıń hám biz sizge járdem beremiz.",
+      "phone": "Telefon",
+      "address": "Mánzil",
+      "addressText": "Nokıs qalası , Almazar koshesi ,8",
+      "phoneNumbers": ["+998 93 173 84 27"],
+      "form": {
+        "name": "Atı, Familiyası",
+        "phone": "Telefon nomer",
+        "message": "Xabar",
+        "messagePlaceholder": "Xabarıńızdı kiritiń"
+      }
+    }
+  },
+  "courses": {
+    "title": "Bizdiń kurslar",
+    "description": "Karpage oqıw oraylıǵında kásipkoy baǵdarlamalardı úyreniń hám óz tarawıńızdaǵı qániyge aylanıń. Barlıq kurslar ámeliy shınıǵıwlar hám haqıyqıy joybarlar menen bayıtılǵan.",
+    "faq": {
+      "title": "Kóp soralatıǵın sorawlar",
+      "items": [
+        {
+          "question": "Kurslarǵa qalay dizimnen ótiw múmkin?",
+          "answer": "Kursqa dizimnen ótiw ushın sayttaǵı \"Dizimnen ótiw\" túymesin basıń yamasa tuwrıdan-tuwrı oraylıǵımızǵa tashrif buyırıń. Sonday-aq, kórsetilgen telefon nomerler arqalı baylanısıwıńız múmkin."
+        },
+        {
+          "question": "Kurslar qanday formatta ótedi?",
+          "answer": "Kurslar hám onlayn, hám oflayn formatta ótedi. Siz ózińizge qolay formatın tańlawıńız múmkin. Oflayn kurslar oraylıǵımızda, onlayn kurslar bolsa Zoom platforması arqalı ótkeriledi."
+        },
+        {
+          "question": "Kurs juwmaǵında sertifikat beriledi me?",
+          "answer": "Awa, barlıq kurslarımız juwmaǵında oqıwshılarǵa sertifikat beriledi. Sertifikat alıw ushın kurs dawamında berilgen tapsırmalardı orınlaw hám juwmaqlawshı joybar usınıw talap etiledi."
+        },
+        {
+          "question": "Kurslar qansha dawam etedi?",
+          "answer": "Kurslarımız 1,5 aydan 2 ayǵa shekem dawam etedi. Hár bir kurs háptesine 2-3 márte ótkeriledi hám hár bir sabaq 2 saattan ibarat."
+        },
+        {
+          "question": "Kurslar ushın qanday tólew usılları bar?",
+          "answer": "Kurslar ushın tólew naqd pul, bank ótkeriwi yamasa Click, Payme sıyaqlı tólew sistemalar arqalı ámelge asırıwıńız múmkin. Sonday-aq, kurslardı bólip tólew imkaniyatı da bar."
+        }
+      ]
+    },
+    "curriculum": {
+      "modules": [
+        {
+          "title": "Tiykarǵı túsinikler hám interfeys",
+          "lessons": [
+            "Baǵdarlama interfeysi hám tiykarǵı sazlawlar",
+            "Tiykarǵı quralllar hám olardıń waziypaları",
+            "Fayl formatlları hám saqllaw usılları"
+          ]
+        },
+        {
+          "title": "Tiykarǵı texnikalar hám qurallar",
+          "lessons": ["Qatlamlar menen islew", "Reńler hám gradientler", "Ajıratıw hám maskalaw"]
+        },
+        {
+          "title": "Ámeliy joybarlar",
+          "lessons": [
+            "Banner hám poster jaratıw",
+            "Logotip hám brending elementleri",
+            "Sociallıq tarmaqlar ushın dizayn"
+          ]
+        },
+        {
+          "title": "Kásipkoy dárejedegi texnikalar",
+          "lessons": [
+            "Quramalı kompoziciyalar",
+            "Arnawlı effektler hám filtrler",
+            "Portfolio joybarı hám juwmaqlawshı jumıs"
+          ]
+        }
+      ]
+    }
+  },
+  "course": {
+    "about": "Kurs haqqında",
+    "youWillLearn": "Kursta úyrenesiz",
+    "curriculum": "Kurs baǵdarlaması",
+    "module": "modul",
+    "lessons": "sabaq",
+    "registerNow": "Kursqa házir dizimnen ótiń!",
+    "registerCTA": "Óz kásibińiz boyınsha jańa basqıshqa shıǵıń hám kásipkoy kónlikpelerdi iyelep alıń. Orınlar sheklengen!",
+    "otherCourses": "Basqa kurslar"
+  },
+  "register": {
+    "title": "Kursqa dizimnen ótiw",
+    "description": "Kelejegiń ushın investitsiya qılıń! \"Karpage\" oqıw oraylıǵınıń kurslarınan birine jazılıń hám kásipkoy sheberligiń asırıń!",
+    "whyUs": {
+      "title": "Nege bizdi tańlawıńız kerek?",
+      "items": [
+        {
+          "title": "Ámeliy shınıǵıwlar",
+          "description": "haqıyqıy joybarlar ústinde islew"
+        },
+        {
+          "title": "Tájiriybeli oqıtıwshılar",
+          "description": "taraw qániygeleri oqıtadı"
+        },
+        {
+          "title": "Sertifikat",
+          "description": "kursdı tamamlaǵannan soń sertifikat beriledi"
+        },
+        {
+          "title": "Ofiste yamasa onlayn oqıw",
+          "description": "ózińizge qolay formatın tańlań"
+        }
+      ]
+    },
+    "contactUs": "Biz benen baylanısıń",
+    "form": {
+      "title": "Dizimnen ótiw ushın formanı toltırıń",
+      "name": "Atı, Familiyası",
+      "phone": "Telefon nomer",
+      "email": "Email mánzil (qosımsha)",
+      "course": "Qaysı kursdı tańladıńız?",
+      "studyTime": "Oqıw waqtı",
+      "studyTimeOptions": {
+        "day": "Kúndizgi (9:00 - 13:00)",
+        "evening": "Keshki (17:00 - 21:00)",
+        "online": "Onlayn"
+      },
+      "additionalInfo": "Qosımsha maǵlıwmat (qosımsha)",
+      "submit": "Dizimnen ótiw",
+      "success": "Dizimnen ótiw tabıslı boldı",
+      "successMessage": "Tez arada siz benen baylanısamız!"
+    },
+    "ourCourses": "Bizdiń kurslar"
+  },
+  "footer": {
+    "description": "Karpage - grafikalıq dizayn hám injenerlik baǵdarlamaların úyretetuǵın házirgi zaman oqıw oraylıǵı. Kurslarımız arqalı kásipkoy kónlikpelerdi iyelep alıń.",
+    "courses": "Kurslar",
+    "usefulLinks": "Paydalı silteme",
+    "aboutUs": "Biz haqqında",
+    "testimonials": "Oqıwshılar pikirleri"
+  },
+  "news": {
+    "title": "Jańalıqlar",
+    "description": "Karpage'niń eń sońǵı jańalıqları hám ilajları menen tanısıń",
+    "search": "Izlew...",
+    "allCategories": "Barlıǵı",
+    "noResults": "Hesh qanday nátiyje tabılmadı",
+    "tryAgain": "Basqa gilt sóz benen izlep kóriń",
+    "readMore": "Tolıǵıraq oqıw",
+    "allNews": "Barlıq jańalıqlar",
+    "relatedNews": "Baylanıslı jańalıqlar",
+    "noRelatedNews": "Baylanıslı jańalıqlar joq",
+    "share": "Bólisiw:",
+    "articleNotFound": "Maqala tabılmadı",
+    "articleNotFoundMessage": "Siz izlep atırǵan maqala joq yamasa óshirilgen.",
+    "categories": {
+      "courses": "Kurslar",
+      "events": "Ilajlar",
+      "partnerships": "Sheriklikler",
+      "workshops": "Seminarlar"
+    }
+  }
+}
+

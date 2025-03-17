@@ -1,0 +1,243 @@
+{
+  "common": {
+    "home": "Bosh sahifa",
+    "courses": "Kurslar",
+    "benefits": "Afzalliklar",
+    "contact": "Aloqa",
+    "register": "Ro'yxatdan o'tish",
+    "send": "Yuborish",
+    "loading": "Yuborilmoqda...",
+    "details": "Batafsil",
+    "copyright": "Barcha huquqlar himoyalangan",
+    "news": "Yangiliklar",
+    "courseNotFound": "Kurs topilmadi",
+    "courseNotFoundMessage": "Siz qidirayotgan kurs mavjud emas yoki o'chirilgan.",
+    "backToCourses": "Kurslarga qaytish",
+    "day": "kun",
+    "month": "oy",
+    "year": "yil",
+    "certificate": "Sertifikat",
+    "duration": "Davomiyligi",
+    "price": "Narxi",
+    "lessons": "ta dars",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "email": "Email",
+    "optional": "ixtiyoriy",
+    "required": "majburiy",
+    "success": "Muvaffaqiyatli",
+    "error": "Xatolik"
+  },
+  "home": {
+    "hero": {
+      "title": "Karpage – Grafik Dizayn va Muhandislik Dasturlarini O'rganing",
+      "description": "Dizayn va injiniring sohasida professional bo'ling! Photoshop, CorelDRAW, AutoCAD va 3ds Max kurslarimiz bilan kreativ va texnik ko'nikmalaringizni rivojlantiring.",
+      "registerButton": "Ro'yxatdan o'tish",
+      "viewCoursesButton": "Kurslarni ko'rish"
+    },
+    "benefits": {
+      "title": "Biz taklif qilamiz",
+      "description": "Bizning kurslarimiz orqali professional ko'nikmalarni egallang va o'z sohangizdagi mutaxassisga aylaning.",
+      "items": [
+        {
+          "title": "Amaliy kurslar",
+          "description": "Haqiqiy loyihalar ustida ishlash"
+        },
+        {
+          "title": "Tajriba orttirish",
+          "description": "Dizayn va muhandislik sohasida kerakli bilimlar"
+        },
+        {
+          "title": "Sertifikat",
+          "description": "O'qishni tugatganingizda sertifikat beriladi"
+        },
+        {
+          "title": "Onlayn va oflayn ta'lim",
+          "description": "Istalgan joydan o'rganish imkoniyati"
+        }
+      ]
+    },
+    "courses": {
+      "title": "Bizning kurslar",
+      "description": "Zamonaviy dasturlarni professional darajada o'rganing va o'z sohangizdagi mutaxassisga aylaning.",
+      "duration": "Davomiyligi",
+      "price": "Narxi",
+      "viewAllButton": "Barcha kurslarni ko'rish"
+    },
+    "testimonials": {
+      "title": "O'quvchilarimiz fikrlari",
+      "description": "Bizning kurslarimizni tugatgan o'quvchilar fikrlari bilan tanishing.",
+      "items": [
+        {
+          "name": "Aziza Karimova",
+          "role": "Grafik dizayner",
+          "text": "Karpage'dagi Photoshop kursi menga professional darajada ishlashni o'rgatdi. Endi mustaqil loyihalar ustida ishlay olaman."
+        },
+        {
+          "name": "Bobur Aliyev",
+          "role": "Muhandis-loyihalovchi",
+          "text": "AutoCAD kursidan so'ng ishga joylashishim oson bo'ldi. O'qituvchilar juda professional va bilimli."
+        },
+        {
+          "name": "Dilnoza Rahimova",
+          "role": "3D dizayner",
+          "text": "3ds Max kursi orqali 3D modellashtirish sohasida o'z biznesimni boshladim. Karpage'ga katta rahmat!"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bugunoq ro'yxatdan o'ting va o'z kasbingiz bo'yicha yangi bosqichga chiqing!",
+      "description": "Kurslarimiz cheklangan o'rinlarga ega. O'z o'rningizni band qiling!"
+    },
+    "contact": {
+      "title": "Biz bilan bog'laning",
+      "description": "Savollaringiz bormi? Biz bilan bog'laning va biz sizga yordam beramiz.",
+      "phone": "Telefon",
+      "address": "Manzil",
+      "addressText": "Nukus tumani , Almazar ko'chasi , 8",
+      "phoneNumbers": ["+998 93 173 84 27"],
+      "form": {
+        "name": "Ism-familiya",
+        "phone": "Telefon raqam",
+        "message": "Xabar",
+        "messagePlaceholder": "Xabaringizni kiriting"
+      }
+    }
+  },
+  "courses": {
+    "title": "Bizning kurslar",
+    "description": "Karpage o'quv markazida professional dasturlarni o'rganing va o'z sohangizdagi mutaxassisga aylaning. Barcha kurslar amaliy mashg'ulotlar va real loyihalar bilan boyitilgan.",
+    "faq": {
+      "title": "Ko'p so'raladigan savollar",
+      "items": [
+        {
+          "question": "Kurslarga qanday ro'yxatdan o'tish mumkin?",
+          "answer": "Kursga ro'yxatdan o'tish uchun saytdagi \"Ro'yxatdan o'tish\" tugmasini bosing yoki to'g'ridan-to'g'ri markazimizga tashrif buyuring. Shuningdek, ko'rsatilgan telefon raqamlar orqali bog'lanishingiz mumkin."
+        },
+        {
+          "question": "Kurslar qanday formatda o'tiladi?",
+          "answer": "Kurslar ham onlayn, ham oflayn formatda o'tiladi. Siz o'zingizga qulay formatni tanlashingiz mumkin. Oflayn kurslar markazimizda, onlayn kurslar esa Zoom platformasi orqali o'tkaziladi."
+        },
+        {
+          "question": "Kurs yakunida sertifikat beriladimi?",
+          "answer": "Ha, barcha kurslarimiz yakunida o'quvchilarga sertifikat beriladi. Sertifikat olish uchun kurs davomida berilgan vazifalarni bajarish va yakuniy loyihani taqdim etish talab etiladi."
+        },
+        {
+          "question": "Kurslar qancha davom etadi?",
+          "answer": "Kurslarimiz 1,5 oydan 2 oygacha davom etadi. Har bir kurs haftasiga 2-3 marta o'tkaziladi va har bir dars 2 soatdan iborat."
+        },
+        {
+          "question": "Kurslar uchun qanday to'lov usullari mavjud?",
+          "answer": "Kurslar uchun to'lovni naqd pul, bank o'tkazmasi yoki Click, Payme kabi to'lov tizimlari orqali amalga oshirishingiz mumkin. Shuningdek, kurslarni bo'lib to'lash imkoniyati ham mavjud."
+        }
+      ]
+    },
+    "curriculum": {
+      "modules": [
+        {
+          "title": "Asosiy tushunchalar va interfeys",
+          "lessons": [
+            "Dastur interfeysi va asosiy sozlamalar",
+            "Asosiy vositalar va ularning vazifasi",
+            "Fayl formatlari va saqlash usullari"
+          ]
+        },
+        {
+          "title": "Asosiy texnikalar va vositalar",
+          "lessons": ["Qatlamlar bilan ishlash", "Ranglar va gradientlar", "Seleksiya va maskalash"]
+        },
+        {
+          "title": "Amaliy loyihalar",
+          "lessons": ["Banner va poster yaratish", "Logotip va brending elementlari", "Ijtimoiy tarmoqlar uchun dizayn"]
+        },
+        {
+          "title": "Professional darajadagi texnikalar",
+          "lessons": ["Murakkab kompozitsiyalar", "Maxsus effektlar va filtrlar", "Portfolio loyihasi va yakuniy ish"]
+        }
+      ]
+    }
+  },
+  "course": {
+    "about": "Kurs haqida",
+    "youWillLearn": "Kursda o'rganasiz",
+    "curriculum": "Kurs dasturi",
+    "module": "modul",
+    "lessons": "ta dars",
+    "registerNow": "Kursga hoziroq ro'yxatdan o'ting!",
+    "registerCTA": "O'z kasbingiz bo'yicha yangi bosqichga chiqing va professional ko'nikmalarni egallang. Joylar cheklangan!",
+    "otherCourses": "Boshqa kurslar"
+  },
+  "register": {
+    "title": "Kursga ro'yxatdan o'tish",
+    "description": "Kelajagingizga sarmoya kiriting! \"Karpage\" o'quv markazining kurslaridan biriga yoziling va kasbiy mahoratingizni oshiring!",
+    "whyUs": {
+      "title": "Nima uchun bizni tanlashingiz kerak?",
+      "items": [
+        {
+          "title": "Amaliy mashg'ulotlar",
+          "description": "haqiqiy loyihalar ustida ishlash"
+        },
+        {
+          "title": "Tajribali o'qituvchilar",
+          "description": "soha mutaxassislaridan o'rganing"
+        },
+        {
+          "title": "Sertifikat",
+          "description": "kursni tugatgandan so'ng sertifikat taqdim etiladi"
+        },
+        {
+          "title": "Ofisda yoki onlayn o'qish",
+          "description": "sizga qulay formatni tanlang"
+        }
+      ]
+    },
+    "contactUs": "Biz bilan bog'laning",
+    "form": {
+      "title": "Ro'yxatdan o'tish uchun shaklni to'ldiring",
+      "name": "Ism, Familya",
+      "phone": "Telefon raqami",
+      "email": "Email manzil (ixtiyoriy)",
+      "course": "Qaysi kursni tanladingiz?",
+      "studyTime": "O'qish vaqti",
+      "studyTimeOptions": {
+        "day": "Kunlik (9:00 - 13:00)",
+        "evening": "Kechki (17:00 - 21:00)",
+        "online": "Onlayn"
+      },
+      "additionalInfo": "Qo'shimcha ma'lumot (ixtiyoriy)",
+      "submit": "Ro'yxatdan o'tish",
+      "success": "Ro'yxatdan o'tish muvaffaqiyatli",
+      "successMessage": "Tez orada siz bilan bog'lanamiz!"
+    },
+    "ourCourses": "Bizning kurslar"
+  },
+  "footer": {
+    "description": "Karpage - grafik dizayn va muhandislik dasturlarini o'rgatuvchi zamonaviy ta'lim markazi. Bizning kurslarimiz orqali professional ko'nikmalarni egallang.",
+    "courses": "Kurslar",
+    "usefulLinks": "Foydali havolalar",
+    "aboutUs": "Biz haqimizda",
+    "testimonials": "O'quvchilar fikrlari"
+  },
+  "news": {
+    "title": "Yangiliklar",
+    "description": "Karpage'ning eng so'nggi yangiliklari va tadbirlari bilan tanishing",
+    "search": "Qidirish...",
+    "allCategories": "Barchasi",
+    "noResults": "Hech qanday natija topilmadi",
+    "tryAgain": "Boshqa kalit so'z bilan qidirib ko'ring",
+    "readMore": "Batafsil o'qish",
+    "allNews": "Barcha yangiliklar",
+    "relatedNews": "Aloqador yangiliklar",
+    "noRelatedNews": "Aloqador yangiliklar mavjud emas",
+    "share": "Ulashish:",
+    "articleNotFound": "Maqola topilmadi",
+    "articleNotFoundMessage": "Siz qidirayotgan maqola mavjud emas yoki o'chirilgan.",
+    "categories": {
+      "courses": "Kurslar",
+      "events": "Tadbirlar",
+      "partnerships": "Hamkorliklar",
+      "workshops": "Ustaxonalar"
+    }
+  }
+}
+
