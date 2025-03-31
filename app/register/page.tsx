@@ -190,7 +190,7 @@ export default function RegisterPage() {
                       <MapPin className="h-5 w-5 text-[#2D6187] mt-1 mr-4" />
                       <div>
                         <h3 className="font-medium text-lg">{t("home.contact.address")}</h3>
-                        <p className="text-gray-600">Toshkent sh., Shayxontohur tumani, Navoiy ko'chasi, 36-uy</p>
+                        <p className="text-gray-600">{t("home.contact.addressText")}</p>
                       </div>
                     </div>
 

@@ -30,7 +30,7 @@
   },
   "home": {
     "hero": {
-      "title": "Karpage – Grafik Dizayn va Muhandislik Dasturlarini O'rganing",
+      "title": "Karpage – Grafik Dizayn, Muhandislik Dasturlari va Loyihalash Ishlarini Oʻrganing.",
       "description": "Dizayn va injiniring sohasida professional bo'ling! Photoshop, CorelDRAW, AutoCAD va 3ds Max kurslarimiz bilan kreativ va texnik ko'nikmalaringizni rivojlantiring.",
       "registerButton": "Ro'yxatdan o'tish",
       "viewCoursesButton": "Kurslarni ko'rish"
@@ -69,16 +69,19 @@
       "description": "Bizning kurslarimizni tugatgan o'quvchilar fikrlari bilan tanishing.",
       "items": [
         {
+          "img" : "/testiminal2.jpg",
           "name": "Aziza Karimova",
           "role": "Grafik dizayner",
           "text": "Karpage'dagi Photoshop kursi menga professional darajada ishlashni o'rgatdi. Endi mustaqil loyihalar ustida ishlay olaman."
         },
         {
+          "img" : "/testiminal1.jpg",
           "name": "Bobur Aliyev",
           "role": "Muhandis-loyihalovchi",
           "text": "AutoCAD kursidan so'ng ishga joylashishim oson bo'ldi. O'qituvchilar juda professional va bilimli."
         },
         {
+          "img" : "/testiminal3.jpg",
           "name": "Dilnoza Rahimova",
           "role": "3D dizayner",
           "text": "3ds Max kursi orqali 3D modellashtirish sohasida o'z biznesimni boshladim. Karpage'ga katta rahmat!"
@@ -95,7 +98,7 @@
       "phone": "Telefon",
       "address": "Manzil",
       "addressText": "Nukus tumani , Almazar ko'chasi , 8",
-      "phoneNumbers": ["+998 93 173 84 27"],
+      "phoneNumbers": ["+998 61 226 12 26"],
       "form": {
         "name": "Ism-familiya",
         "phone": "Telefon raqam",

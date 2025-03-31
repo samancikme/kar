@@ -110,16 +110,19 @@ export default function Home() {
     ? t("home.testimonials.items")
     : [
         {
+          img : "./public/testiminal1.jpg",
           name: "Aziza Karimova",
           role: "Grafik dizayner",
           text: "Karpage'dagi Photoshop kursi menga professional darajada ishlashni o'rgatdi. Endi mustaqil loyihalar ustida ishlay olaman.",
         },
         {
+          img : "./public/testiminal1.jpg",
           name: "Bobur Aliyev",
           role: "Muhandis-loyihalovchi",
           text: "AutoCAD kursidan so'ng ishga joylashishim oson bo'ldi. O'qituvchilar juda professional va bilimli.",
         },
         {
+          img : "../public/testiminal1.jpg",
           name: "Dilnoza Rahimova",
           role: "3D dizayner",
           text: "3ds Max kursi orqali 3D modellashtirish sohasida o'z biznesimni boshladim. Karpage'ga katta rahmat!",
@@ -468,7 +471,7 @@ export default function Home() {
                   >
                     <div className="flex items-center mb-4">
                       <Image
-                        src={`/placeholder.svg?height=100&width=100`}
+                        src={testimonial.img}
                         alt={testimonial.name}
                         width={50}
                         height={50}
